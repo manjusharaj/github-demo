@@ -1,4 +1,4 @@
 # github-demo
-this id my first repository.
+this is my first Git repository.
 <d>
 author - Manjusha raj
