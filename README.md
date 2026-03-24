@@ -1,4 +1,5 @@
 # github-demo
 this is my first Git repository.
 <br>
-author - Manjusha raj
+author - Manu raj
+
